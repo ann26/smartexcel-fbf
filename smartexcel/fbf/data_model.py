@@ -34,7 +34,6 @@ class FbfFloodData():
         }
 
     def execute_query(self, query):
-        print(query)
         if self.pl_python_env:
             res = plpy.execute(query)
             try:

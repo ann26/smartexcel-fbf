@@ -1,8 +1,11 @@
 # SmartExcel for Fbf
 
-Excel spreadsheet generator.
+Report generator for the Fbf project.
 
-## Developent
+## Documentation
+Read the code and the tests.
+
+## Development
 ```
 python -m venv env
 source env/bin/activate
